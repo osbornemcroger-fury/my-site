@@ -60,3 +60,8 @@ footer {
     margin: 0 auto;
     padding: 1rem;
 }
+
+body.dark {
+    background-color: #111;
+    color: #f4f4f4;
+}
